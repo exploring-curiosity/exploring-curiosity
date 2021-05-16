@@ -15,7 +15,7 @@
     <a href="https://www.java.com/en/" target="_blank"><img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='Java' width="40" height="40"/> </a>
     <a href="https:https://threejs.org/" target="_blank"><img src='' alt='ThreeJS' width="40" height="40"/> </a>
     <a href="https://www.blender.org/" target="_blank"><img src='' alt='blender' width="40" height="40"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank"><img src='https://img-premium.flaticon.com/png/512/2085/2085283.png?token=exp=1621179818~hmac=5b626275dbbfc6ea0ec2585d6c5db2ef' alt='C++' width="40" height="40"/> </a>
+    <a href="https://www.cplusplus.com/" target="_blank"><img src='https://img-premium.flaticon.com/png/512/2085/2085061.png?token=exp=1621179878~hmac=a38c26c3387e4ad76fc214cfbca712ff' alt='C++' width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"><img src='' alt='Arduino' width="40" height="40"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"><img src='' alt='RaspberryPi' width="40" height="40"/> </a>    
 </p>
