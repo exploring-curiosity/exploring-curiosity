@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/exploring-curiosity/exploring-curiosity/blob/main/5.gif" alt="Hi, This is Sudharshan" align="center" />
+<img src="https://github.com/exploring-curiosity/exploring-curiosity/blob/main/Display.gif" alt="Hi, This is Sudharshan" align="center" />
 </p>
 
 <p align="center"> 
