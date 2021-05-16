@@ -25,4 +25,9 @@
 </p>
 <br>
 
+## GitHub Stats :thought_balloon:
+
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=exploring-curiosity&show_icons=true&hide_border=true&theme=tokyonight" />
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exploring-curiosity&layout=compact" alt = "Sudharshan's Languages" />  
