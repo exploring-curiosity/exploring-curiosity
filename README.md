@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/exploring-curiosity/count.svg" />
 </p>
 <h2> Languages and Tools </h2>
-<br><br>
+<br>
 <p align="left">
     <a href="https://reactjs.org/" title="ReactJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" title="NodeJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -23,5 +23,6 @@
     <a href="https://www.arduino.cc/" title="Arduino" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1080px-Arduino_Logo.svg.png' alt='Arduino' width="40" height="40"/> </a>
     <a href="https://www.raspberrypi.org/" title="Raspberry PI" target="_blank"><img src='https://img-premium.flaticon.com/png/512/919/919855.png?token=exp=1621179966~hmac=c9f1e3685c8e034aa5c1d1abf4baa869' alt='RaspberryPi' width="40" height="40"/> </a>    
 </p>
+<br>
 
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=exploring-curiosity&show_icons=true&hide_border=true&theme=tokyonight" />
