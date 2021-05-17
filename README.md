@@ -1,3 +1,8 @@
+a img:hover{
+  width:"50";
+  height:"50";
+}
+
 <p align="center"> 
 <img src="https://github.com/exploring-curiosity/exploring-curiosity/blob/main/Display.gif" alt="Hi, This is Sudharshan" align="center" />
 </p>
