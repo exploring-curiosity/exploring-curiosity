@@ -23,7 +23,7 @@
     <a href="https://www.blender.org/" title="Blender" target="_blank"><img src='https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png' alt='blender' width="40" height="40"/> </a>
     <a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png' alt='C++' width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" title="Arduino" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1080px-Arduino_Logo.svg.png' alt='Arduino' width="40" height="40"/> </a>
-    <a href="https://www.raspberrypi.org/" title="Raspberry PI" target="_blank"><img src='https://img-premium.flaticon.com/png/512/919/919855.png?token=exp=1621179966~hmac=c9f1e3685c8e034aa5c1d1abf4baa869' alt='RaspberryPi' width="40" height="40"/> </a> 
+    <a href="https://www.raspberrypi.org/" title="Raspberry PI" target="_blank"><img src='https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001-300x267.png' alt='RaspberryPi' width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 <br>
