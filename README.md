@@ -2,9 +2,6 @@
 <img src="https://github.com/exploring-curiosity/exploring-curiosity/blob/main/Display.gif" alt="Hi, This is Sudharshan" align="center" />
 </p>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/exploring-curiosity/count.svg" />
-</p>
 <h2> Languages and Tools </h2>
 <br>
 <p align="left">
